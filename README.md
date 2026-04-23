@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # bus_app_cep
 
 A new Flutter project.
@@ -16,6 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 =======
+
 # Flutter-Projects (Beginner Level)
 
 # Flutter Navigation and Routing App
@@ -32,14 +32,15 @@ This Flutter project demonstrates **navigation and routing** between multiple sc
 
 ## Features
 
-- **Sign-Up Navigation**: Clicking the **Sign-Up** button navigates to the **Login** screen.  
-- **Login Validation**: The user must enter both **username/email** and **password** to proceed. If any field is empty, a warning message is shown.  
-- **Info Display**: Upon successful login, the user is taken to the **Info screen**, where all entered details are displayed as text.  
+- **Sign-Up Navigation**: Clicking the **Sign-Up** button navigates to the **Login** screen.
+- **Login Validation**: The user must enter both **username/email** and **password** to proceed. If any field is empty, a warning message is shown.
+- **Info Display**: Upon successful login, the user is taken to the **Info screen**, where all entered details are displayed as text.
 - **Text Input Handling**: Uses `TextEditingController` to capture and transfer user input between screens.
 
 ---
 
 ## Screenshots
+
 **Intro Page**
 <img width="1913" height="876" alt="image" src="https://github.com/user-attachments/assets/3362bfef-860e-402b-a5e8-0dac115b370c" />
 **Login Page**
@@ -47,12 +48,10 @@ This Flutter project demonstrates **navigation and routing** between multiple sc
 **Info Page**
 <img width="1905" height="874" alt="image" src="https://github.com/user-attachments/assets/41c6b27c-99a2-4f27-ac32-932a593b5c30" />
 
-
-
-
 ---
 
 ## Folder Structure
+
 ## Folder Structure
 
 lib/
@@ -78,4 +77,4 @@ flutter pub get
 Run the app:
 flutter run
 
->>>>>>> 51e98b35923731ca60672b10931392dc254385be
+```
